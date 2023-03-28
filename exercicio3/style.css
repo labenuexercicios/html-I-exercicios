@@ -1,0 +1,28 @@
+
+h1{
+    color: rgb(37, 136, 60);
+    text-align: center;
+}
+table {
+    font-family: Arial, sans-serif;
+    width: 100%;
+    max-width: 800px;
+    margin: 0 auto;
+  }
+  
+ 
+  th,
+  td {
+    padding: 12px;
+    text-align: left;
+  }
+  
+  tr {
+    text-align: center;
+  }
+
+  
+  tr:hover {
+    background-color: #13c5ab;
+  }
+  
